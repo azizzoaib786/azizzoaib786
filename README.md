@@ -1,10 +1,15 @@
 ## Hi there, I'm [Aziz](https://medium.com/me/stories/public) 👋
 
-I'm Aziz Zoaib, a highly skilled DevOps & Site Reliability Engineer with over 14 years of experience in building and maintaining robust, scalable cloud infrastructure. I excel in modern cloud technologies and tools, including AWS and Google Cloud, and bring strong expertise in programming with Python & Bash. My experience spans across Kubernetes, Terraform, Jenkins, Docker, ArgoCD and a variety of database technologies, both SQL and NoSQL, ensuring seamless and efficient production systems.
+- **Cloud Expertise:** Skilled in AWS & Google Cloud
+- **Programming:** Proficient in Python & Bash
+- **DevOps Tools:** Experienced with Kubernetes, Terraform, Jenkins, Docker, ArgoCD, CircleCI
+- **Database Management:** Adept with both SQL and NoSQL databases
+- **Data Science Journey:** Exploring data science as a beginner and continuously learning to integrate analytical solutions
 
-I am dedicated to providing high-quality, secure, and scalable solutions that drive the success of modern businesses.
+I am dedicated to delivering high-quality, secure, and scalable solutions that drive the success of modern businesses.
 
-- 🌱 I’m currently learning [Go](https://go.dev/)
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/azizzoaib786/)
+- 🎓 Currently pursuing a Master's in Data Science
+- 🚀 Currently learning [Go](https://go.dev/)
+- 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/azizzoaib786/)
 
 
