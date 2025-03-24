@@ -1,15 +1,27 @@
-## Hi there, I'm [Aziz](https://medium.com/me/stories/public) 👋
+### Hi there, I'm Aziz Zoaib 👋
 
-- **Cloud Expertise:** Skilled in AWS & Google Cloud
-- **Programming:** Proficient in Python & Bash
-- **DevOps Tools:** Experienced with Kubernetes, Terraform, Jenkins, Docker, ArgoCD, CircleCI
-- **Database Management:** Adept with both SQL and NoSQL databases
-- **Data Science Journey:** Exploring data science as a beginner and continuously learning to integrate analytical solutions
+I'm a **DevOps Enthusiast & Aspiring Data Scientist**, dedicated to delivering high-quality, secure, and scalable solutions that drive business success. 
 
-I am dedicated to delivering high-quality, secure, and scalable solutions that drive the success of modern businesses.
+## 🌟 My Expertise
 
-- 🎓 Currently pursuing a Master's in Data Science
-- 🚀 Currently learning [Go](https://go.dev/)
-- 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/azizzoaib786/)
+- **☁️ Cloud:** AWS, Google Cloud, OpenShift
+- **🛠️ DevOps:** Kubernetes, Terraform, Jenkins, Docker, ArgoCD, CircleCI
+- **💻 Programming:** Python, Bash, currently exploring Go
+- **🗃️ Databases:** Experienced with SQL and NoSQL
+- **📊 Data Science:** Pursuing Master's in Data Science, continuously integrating analytical solutions
 
+## 🚀 What I'm Currently Doing
+- 🎓 **Pursuing:** Master's Degree in Data Science
+- 📖 **Learning:** Go and advanced Machine Learning techniques
+- 📊 **Exploring:** Data-driven DevOps solutions
 
+## 🤝 Let's Connect
+- 📧 [azizzoaib786@gmail.com](mailto:azizzoaib786@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/azizzoaib786)
+
+## 📈 GitHub Stats
+![Aziz's GitHub stats](https://github-readme-stats.vercel.app/api?username=azizzoaib786&show_icons=true&theme=radical)
+
+---
+
+✨ Open to collaboration and always eager to learn more!
