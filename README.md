@@ -19,6 +19,10 @@ I'm a **DevOps Enthusiast & Aspiring Data Scientist**, dedicated to delivering h
 - 📧 [azizzoaib786@gmail.com](mailto:azizzoaib786@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/azizzoaib786)
 
+## 📈 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=azizzoaib786)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 ---
 
 ✨ Open to collaboration and always eager to learn more!
