@@ -19,8 +19,8 @@ I'm a **DevOps Enthusiast & Aspiring Data Scientist**, dedicated to delivering h
 - 📧 [azizzoaib786@gmail.com](mailto:azizzoaib786@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/azizzoaib786)
 
-## 📈 GitHub Stats
-![Aziz's GitHub stats](https://github-readme-stats.vercel.app/api?username=azizzoaib786&show_icons=true&theme=radical)
+## 📈 GitHub Badge
+[![committers.top badge](https://user-badge.committers.top/uae/USERNAME.svg)](https://user-badge.committers.top/uae/azizzoaib786)
 
 ---
 
